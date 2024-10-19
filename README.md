@@ -53,8 +53,4 @@ CSV File Storage: For saving stress data and timestamps.
 MPAndroidChart (or other library): For visualizing stress data in graph format.
 
 
-Below images shows the visuals of how the application looks
-
-![WhatsApp Image 2024-10-19 at 2 23 36 PM](https://github.com/user-attachments/assets/f40c1483-6142-4de2-9a79-7928d43e4d31)
-![WhatsApp Image 2024-10-19 at 2 22 52 PM](https://github.com/user-attachments/assets/a942a899-8fda-4905-b365-d96caa8a3e46)
 
